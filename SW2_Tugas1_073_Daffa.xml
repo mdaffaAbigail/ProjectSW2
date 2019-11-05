@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!--
+    1. XML namespace itu metode untuk menghindari persamaan nama elemen (mungkin), dengan menggunakan prefix sebagai penandanya
+    2. XML namespace digunakan ketika kita ingin membedakan elemen-elemen tertentu, misal pada kodingan dibawah.
+    Terdapat nama prodi yg sama, namun dengan namespace , mereka memiliki unique key tersendiri.
+-->
+<root xmlns:p="https://ilmukomputer.usu.ac.id"
+xmlns:u="https://mik.usu.ac.id">
+
+<p:prodi>
+    <p:kaprodi>Dr.Poltak Sihombing M.Kom,</p:kaprodi>
+    <p:sekprodi>Herriyance ST.,M.Kom</p:sekprodi>
+    <p:tahun>2002</p:tahun>
+    <p:bidang>SAINTEK</p:bidang>
+    <p:fakultas>Fasilkom-TI</p:fakultas>
+</p:prodi>
+
+<u:prodi>
+    <u:kaprogdi>Dra. Fatma Wardi Lubis ,MA</u:kaprogdi>
+    <u:sekprogdi>Dayana ,M.Si</u:sekprogdi>
+    <u:thn>1999</u:thn>
+    <u:b_dang>SOSHUM</u:b_dang>
+    <u:fak>FISIP</u:fak>
+</u:prodi>
+
+</root>
