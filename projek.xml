@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="projek.xsl"?>
+<footballstaff>
+<seniorsquad>
+	<owner>Stan Kroenke</owner>
+	<president>Chips Keswick</president>
+	<managingdirector>Vinai Vinkatesham</managingdirector>
+	<director>Ken Friar</director>
+	<director2>Philip Harris</director2>
+	<director3>Josh Kroenke</director3>
+	<generalmanager>Raul Sanllehi</generalmanager>
+	<headcoach>Unai Emery</headcoach>
+	<assistantcoach>Steve Bould</assistantcoach>
+	<headofyouthdevelopment>Per Mertesacker</headofyouthdevelopment>
+	<goalkeepingcoach>Sal Bibbo</goalkeepingcoach>
+	<goalkeepingcoach2>Javier Garcia</goalkeepingcoach2>
+	<fitnesscoach>Julen Masach</fitnesscoach>
+	<fitnesscoach2>Sam Wilson</fitnesscoach2>
+	<fitnesscoach3>Barry Solan</fitnesscoach3>
+	<coach>Juan Carlos Carcedo</coach>
+	<coach2>Pablo Villa</coach2>
+	<chiefdoctor>Gary O'Driscoll</chiefdoctor>
+	<headphysio>Chris Morgan</headphysio>
+	<headofsportscience>Shad Forsythe</headofsportscience>
+	<physio>Antony Stuart</physio>
+	<physio2>Jordan Reece</physio2>
+	<sportscientist>Tom Allen</sportscientist>
+	<chiefscout>Sven Mislintat</chiefscout>
+	<chiefdataanalyst>Victor Manas</chiefdataanalyst>
+	<scout>Pat Rice</scout>
+	<scout2>Ty Gooden</scout2>
+	<scout3>Peter Clark</scout3>
+	<scout4>Jurgen Kost</scout4>
+	<dataanalyst>Ben Knapper</dataanalyst>
+	<dataanalyst2>Mark Curtis</dataanalyst2>
+	<dataanalyst3>Sam Hayball</dataanalyst3>
+</seniorsquad>
+<u23squad>
+	<headcoach>Fredrick Ljungberg</headcoach>
+	<assistantcoach>Ryan Garry</assistantcoach>
+	<goalkeepingcoach>Andy Woodman</goalkeepingcoach>
+	<fitnesscoach>Padraigh Roche</fitnesscoach>
+	<physio>David Binningsley</physio>
+	<sportscientist>Des Ryan</sportscientist>
+	<dataanalyst>James Krause</dataanalyst>
+</u23squad>
+<u18squad>
+	<assistantcoach>Ken Gillard</assistantcoach>
+	<goalkeepingcoach>Chris Tepcou</goalkeepingcoach>
+	<fitnesscoach>Noel Carrol</fitnesscoach>
+	<coach>Martin Hunter</coach>
+	<coach2>Tom Bates</coach2>
+	<physio>Russ Wrigley</physio>
+	<physio2>Amy Todd</physio2>
+	<sportscientist>Sam Moore</sportscientist>
+	<sportscientist2>Perry Steward</sportscientist2>
+	<dataanalyst>Niall O'Connor</dataanalyst>
+</u18squad>
+</footballstaff>
