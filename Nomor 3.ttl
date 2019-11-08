@@ -1,0 +1,49 @@
+@prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:<http://xmlns.com/foaf/spec/> .
+@prefix fb:<http://football.com/> .
+
+    rdfs:Class rdf:ID "Arsenal_FC" ;
+        foaf:Group "Senior_Squad" ; 
+        foaf:member "Staff" ;
+        rdfs:subClassOf "#Arsenal_Fc" .
+    foaf:member rdf:ID "Staff" ;
+        foaf:Person "Anggota" .
+    foaf:Person rdf:ID "Anggota" ;
+        foaf:name "Raul Sanllehi" ;
+        foaf:name "Unai Emery" ;
+        foaf:name "Per Mertesacker" ;
+        foaf:name "Sal Bibbo" ;
+        foaf:name "Julen Masach" ;
+        foaf:name "Juan Carlos Carcedo" ; 
+        foaf:name "Gary O'Driscoll" ;
+        foaf:name "Chris Morgan" ;
+        foaf:name "Shad Forsythe" ;
+        foaf:name "Sven Mislintat" ;
+        foaf:name "Ben Knapper" .
+    foaf:Group rdf:ID "U23_Squad" ;
+        foaf:member "Staff23" ;
+        rdfs:subClassOf "#Arsenal_Fc" .
+    foaf:member rdf:ID "Staff23" ;
+        foaf:Person "Anggota23" .
+    foaf:Person rdf:ID "Anggota23" ;
+        foaf:name "Fredrick Ljungberg" ;
+        foaf:name "Ryan Garry" ;
+        foaf:name "Andy Woodman" ;
+        foaf:name "Padraigh Roche" ;
+        foaf:name "David Binningsley" ;
+        foaf:name "Des Ryan"  .
+    foaf:Group rdf:ID "U18_Squad" ;
+        foaf:member "Staff18" ;
+        rdfs:subClassOf "#Arsenal_Fc" .
+    foaf:member rdf:ID "Staff18" ;
+        foaf:Person "Anggota18" .
+    foaf:Person rdf:ID "Anggota18" ;
+        foaf:name "Ken Gillard" ;
+        foaf:name "Chris Tepcou" ;
+        foaf:name "Noel Carrol" ;
+        foaf:name "Martin Hunter" ;
+        foaf:name "Russ Wrigley" ;
+        foaf:name "Sam Moore" .
+
+   
